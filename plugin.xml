@@ -42,11 +42,6 @@
     <!-- Localization of the interactive Calendar widget -->
     <config-file target="*-Info.plist" parent="CFBundleLocalizations">
       <array>
-        <string>en</string>
-        <string>de</string>
-        <string>nl</string>
-        <string>fr</string>
-        <string>it</string>
         <string>pt-BR</string>
       </array>
     </config-file>
